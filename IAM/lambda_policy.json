@@ -1,0 +1,28 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1615426662826",
+        "Action": "cloudwatch:*",
+        "Effect": "Allow",
+        "Resource": "*"
+      } ,
+      {
+        "Sid": "Stmt163546987325",
+        "Action": "logs:*",
+        "Effect": "Allow",
+        "Resource": "*"
+      },
+      {
+        "Sid": "Stmt1615434341641",
+        "Action": [
+          "ec2:DescribeVpcEndpoints",
+          "ec2:DescribeNetworkInterfaces",
+          "ec2:DescribeVpcEndpointServices"
+        ],
+        "Effect": "Allow",
+        "Resource": "*"
+      }
+    ]
+  }
+  
