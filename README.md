@@ -124,11 +124,11 @@ After the solution starts to process event data, you can view the metrics and al
 
 Now that your data is available in CloudWatch Metrics, you can create an interactive Amazon CloudWatch dashboard using the instructions mentioned here <a href="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/create_dashboard.html">Creating a CloudWatch dashboard.</a>
 
-<img class="aligncenter size-full wp-image-22282" src="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2021/07/19/Figure-2-CloudWatch-Dashboard.png" alt="The CloudWatch dashboard displays the VPCEndpointMonitor metric." width="3024" height="1746" />
+<img class="aligncenter size-full wp-image-22282" src="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2021/07/19/Figure-2-CloudWatch-Dashboard.png" alt="The CloudWatch dashboard displays the VPCEndpointMonitor metric." width="3024" height="" />
 <p style="text-align: center;"><em> Figure 2: CloudWatch dashboard</em></p>
 For every interface endpoint, two alarm definitions are created and configured per user-defined threshold limits.
 
-<img class="aligncenter size-full wp-image-22283" src="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2021/07/19/Figure-3-Alarms-in-CLoudWatch.png" alt="The Alarms page in the CloudWatch console displays alarms for the VpcEndpointMonitor metric." width="2674" height="1372" />
+<img class="aligncenter size-full wp-image-22283" src="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2021/07/19/Figure-3-Alarms-in-CLoudWatch.png" alt="The Alarms page in the CloudWatch console displays alarms for the VpcEndpointMonitor metric." width="2674" height="" />
 <p style="text-align: center;"><em>Figure 3: Alarms page in the CloudWatch console</em></p>
 
 <h2>Cleanup</h2>
