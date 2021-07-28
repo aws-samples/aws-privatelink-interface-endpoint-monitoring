@@ -1,6 +1,6 @@
 ## Monitor network throughput of interface VPC endpoints using Amazon CloudWatch
 
-Ref: https://aws-blogs-prod.amazon.com/mt/monitor-network-throughput-of-interface-vpc-endpoints-using-amazon-cloudwatch
+Ref: https://aws.amazon.com/blogs/mt/monitor-network-throughput-of-interface-vpc-endpoints-using-amazon-cloudwatch/
 
 <h2>Prerequisites</h2>
 To deploy the solution, you need the following:
